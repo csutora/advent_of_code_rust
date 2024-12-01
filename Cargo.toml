@@ -1,0 +1,10 @@
+[package]
+authors = ["marton csutora"]
+name = "aoc"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+directories = "5.0.1"
+dotenvy = "0.15.7"
+ureq = "2.11.0"
